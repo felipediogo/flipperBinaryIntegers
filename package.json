@@ -1,0 +1,16 @@
+{
+  "name": "flip-binary-integer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/flipBinaryInteger.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mrholeechit",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "ramda": "^0.24.1"
+  }
+}
